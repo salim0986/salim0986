@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi, I'm Salim! 👋
+  # Hi, I'm Saalim! 👋
   
   <h3>Full Stack Developer | AI & Data Science Engineer</h3>
   
