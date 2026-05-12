@@ -2,7 +2,7 @@
   
   # Hi, I'm Saalim! 👋
   
-  <h3>Full Stack Developer | AI & Data Science Engineer</h3>
+  <h3>AI Engineer</h3>
   
   <p>
     <em>Building the bridge between scalable web applications and intelligent AI systems.</em>
@@ -21,12 +21,12 @@
 
 ### 🚀 About Me
 
-I am a **Full Stack Developer** with a specialized focus on **Artificial Intelligence**, currently pursuing a **BS in Data Science & Applications from IIT Madras**. 
+I am a **Full Stack Developer** with a specialized focus on **Artificial Intelligence** and **Agentic Workflows**. 
 
 While most developers stop at the API and data scientists stop at the Jupyter Notebook, I handle the full lifecycle: **training/fine-tuning models** and deploying them into **scalable, user-friendly web applications**.
 
 - 🔭 **I’m currently building:** AI Agents that can reason and perform complex tasks.
-- 🌱 **I’m currently learning:** Retrieval Augmented Generation (RAG) at enterprise scale.
+- 🌱 **I’m currently learning:** LLM cost optimization and evaluation tools for RAG.
 - 💼 **Goal:** Helping companies integrate AI into their existing tech stacks.
 
 ---
