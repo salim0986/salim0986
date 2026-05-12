@@ -19,15 +19,15 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **Full Stack Developer** with a specialized focus on **Artificial Intelligence** and **Agentic Workflows**. 
 
 While most developers stop at the API and data scientists stop at the Jupyter Notebook, I handle the full lifecycle: **training/fine-tuning models** and deploying them into **scalable, user-friendly web applications**.
 
-- 🔭 **I’m currently building:** AI Agents that can reason and perform complex tasks.
-- 🌱 **I’m currently learning:** LLM cost optimization and evaluation tools for RAG.
-- 💼 **Goal:** Helping companies integrate AI into their existing tech stacks.
+-  **I’m currently building:** AI Agents that can reason and perform complex tasks.
+-  **I’m currently learning:** LLM cost optimization and evaluation tools for RAG.
+-  **Goal:** Helping companies integrate AI into their existing tech stacks.
 
 ---
 
