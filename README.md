@@ -41,7 +41,7 @@ While most developers stop at the API and data scientists stop at the Jupyter No
 
 </div>
 
-**Specialized AI Tools:** LangChain, LlamaIndex, Pinecone (Vector DB), OpenAI API, HuggingFace.
+**Specialized AI Tools:** LangChain, LangGraph, Pinecone (Vector DB), OpenAI API, HuggingFace.
 
 ---
 
